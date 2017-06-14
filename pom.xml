@@ -39,7 +39,7 @@
 					<username>mallicki</username>
 					<password>Indir@88</password>
 					<redeploy>true</redeploy>
-					<environment>Production</environment>
+					<environment>Sandbox</environment>
 				</configuration>
 				<executions>
 					<execution>
